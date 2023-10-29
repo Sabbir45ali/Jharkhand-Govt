@@ -26,7 +26,7 @@ Include screenshots or images that showcase the website's interface.
 
 ## License
 
-This project is licensed under the [SABBIR ALI]. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [SABBIR ALI]. See Repo for details.
 
 ## Contact
 
