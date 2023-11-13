@@ -6,8 +6,8 @@ This repository contains the source code for web project: a Jharkhand government
 
 The Jharkhand Government project showcase website is designed to . Some key features include:
 
-- Feature 1
-- Feature 2
+- Show case of projects
+- E-Commerce website for projects
 - ...
 
 ### Technologies Used
