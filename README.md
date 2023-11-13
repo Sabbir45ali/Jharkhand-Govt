@@ -37,3 +37,6 @@ If you have questions or need assistance, you can contact us at [sabbir84b@gmail
 Include any acknowledgments, credits, or references to third-party resources used in the project.
 
 ---
+## LICENCE 
+[Sabbir Ali](https://github.com/Sabbir45ali/Stock-Analycis/blob/master/LICENSE)
+
